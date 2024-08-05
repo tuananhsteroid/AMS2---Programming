@@ -1,0 +1,22 @@
+D:\code-C#\ASM2\ASM2\bin\Debug\ASM2.exe.config
+D:\code-C#\ASM2\ASM2\bin\Debug\ASM2.exe
+D:\code-C#\ASM2\ASM2\bin\Debug\ASM2.pdb
+D:\code-C#\ASM2\ASM2\obj\Debug\ASM2.csproj.AssemblyReference.cache
+D:\code-C#\ASM2\ASM2\obj\Debug\ASM2.Form1.resources
+D:\code-C#\ASM2\ASM2\obj\Debug\ASM2.Properties.Resources.resources
+D:\code-C#\ASM2\ASM2\obj\Debug\ASM2.csproj.GenerateResource.cache
+D:\code-C#\ASM2\ASM2\obj\Debug\ASM2.csproj.CoreCompileInputs.cache
+D:\code-C#\ASM2\ASM2\obj\Debug\ASM2.exe
+D:\code-C#\ASM2\ASM2\obj\Debug\ASM2.pdb
+D:\code-C#\ASM2 - Sao chép\ASM2\bin\Debug\ASM2.exe.config
+D:\code-C#\ASM2 - Sao chép\ASM2\bin\Debug\ASM2.exe
+D:\code-C#\ASM2 - Sao chép\ASM2\bin\Debug\ASM2.pdb
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.csproj.AssemblyReference.cache
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.Form1.resources
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.Properties.Resources.resources
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.csproj.GenerateResource.cache
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.csproj.CoreCompileInputs.cache
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.exe
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.pdb
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.Form2.resources
+D:\code-C#\ASM2 - Sao chép\ASM2\obj\Debug\ASM2.Form3.resources
